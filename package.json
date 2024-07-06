@@ -1,0 +1,17 @@
+{
+  "name": "text2color-orange",
+  "version": "1.0.0",
+  "description": "A simple module to change text color to orange with style",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "boxen": "^5.0.0"
+  }
+}
