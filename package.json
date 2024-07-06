@@ -1,6 +1,6 @@
 {
   "name": "text2color-orange",
-  "version": "1.0.0",
+  "version": "1.5.2",
   "description": "A simple module to change text color to orange with style",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,14 @@
     "figlet": "^1.5.2",
     "gradient-string": "^2.0.0",
     "boxen": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suranisetyaa/text2color-orange.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suranisetyaa/text2color-orange/issues"
+  },
+  "homepage": "https://github.com/suranisetyaa/text2color-orange#readme"
 }
